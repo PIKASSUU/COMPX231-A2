@@ -1,8 +1,8 @@
-# COMPX231-A2
+# COMPX231-A2  
 
-# Hello ^_^
+# Hello ^_^  
 
-# Description
+# Description  
 This project implements the Readers-Writers Problem using a Monitor in Python.  
 
 # Features
